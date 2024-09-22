@@ -5,9 +5,6 @@
 - 🌱 I’m great in Flutter
 - 👯 I’m looking to collaborate on innovative projects
 - 🤔 I'm currently learning Kotlin
-- 💬 Ask me about ...
 - 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
