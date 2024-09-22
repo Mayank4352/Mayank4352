@@ -8,6 +8,4 @@
 - 📫 How to reach me: 
 
 
-##Languages And Tools 🛠:
-C++,Python,Java
 
