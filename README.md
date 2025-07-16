@@ -1,10 +1,10 @@
 ## I'm Mayank Sharma👋
 
 
-- 🔭 I’m currently going through college
-- 🌱 I’m great in Flutter and AI/ML
-- 👯 I’m looking to collaborate on innovative projects
--  currently learning Kotlin
+- 🔭 Currently going through college
+- 🌱 Great in Flutter and AI/ML
+- 👯 Looking to collaborate on innovative projects
+-  Currently learning Kotlin
 - 📫 How to reach me: <a href="mailto:e22cseu0839@bennett.edu.in"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a> 
 
   
